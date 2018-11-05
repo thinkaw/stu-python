@@ -23,7 +23,7 @@ def format_bitcoin_history(bitcoin_history):
         date = bitcoin_price['date'].strftime('%d.%m.%Y %H:%M')
         price = bitcoin_price['price']
 
-        row = '{}: %<b>{}</b>'.format(date, price)
+        row = '{}: $<b>{}</b>'.format(date, price)
         rows.append(row)
     return '<br>'.join(rows)
 

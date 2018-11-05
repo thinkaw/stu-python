@@ -32,8 +32,8 @@
       <file leaf-file-name="bitcoin_price_notifications.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bitcoin_price_notifications.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1056">
-              <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+            <state relative-caret-position="1089">
+              <caret line="32" column="14" lean-forward="false" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
               <folding>
                 <element signature="e#14#29#0" expanded="true" />
               </folding>
@@ -67,7 +67,7 @@
     <option name="x" value="1920" />
     <option name="y" value="-43" />
     <option name="width" value="1080" />
-    <option name="height" value="1897" />
+    <option name="height" value="1819" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -374,7 +374,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1920" y="-43" width="1080" height="1897" extended-state="6" />
+    <frame x="1920" y="-43" width="1080" height="1819" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3159923" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -420,8 +420,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bitcoin_price_notifications.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1056">
-          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        <state relative-caret-position="1089">
+          <caret line="32" column="14" lean-forward="false" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
           <folding>
             <element signature="e#14#29#0" expanded="true" />
           </folding>
